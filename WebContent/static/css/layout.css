@@ -1,0 +1,118 @@
+
+html {
+height: 99%;
+}
+body{
+height:99%;
+}
+.header,.menu_content,.footer {
+width: 100%;
+border: 1px solid black;
+}
+
+.header {
+height: 15%;
+}
+
+.header_title {
+padding-left: 50px;
+font-size: 16pt;
+font-weight: bold;
+color: blue;
+width: 40%;
+vertical-align: middle;
+}
+
+.header_languages {
+text-align: right;
+padding-right: 25px;
+padding-bottom: 10px;
+width: 40%;
+vertical-align: bottom;
+}
+
+.menu_content {
+padding-top: 10px;
+padding-left: 10px;
+height: 75%;
+}
+
+.menu_content_table {
+width: 100%;
+}
+
+.menu_div {
+background-color: silver;
+margin-right: 10px;
+width: 200px;
+}
+
+.menu {
+background-color: white;
+width: 200px;
+vertical-align: top;
+}
+
+.menu_title {
+text-align: center;
+color: white;
+background-color: grey;
+margin-left: 10px;
+margin-top: 0px;
+}
+
+.menu_ul {
+background-color: white;
+margin-left: 50px;
+margin-right: 10px;
+padding-bottom: 20px;
+list-style-image: url("../img/disc.jpg");
+}
+.menu_ul li{
+padding-top: 5px;
+}
+
+.content {
+border: 1px solid silver;
+padding-left: 25px;
+padding-top: 10px;
+width: 100%;
+vertical-align: top;
+}
+
+.contentNewsTitle {
+color: silver;
+text-decoration: underline;
+}
+
+.NewsViewTitle {
+color: silver;
+}
+
+.footer {
+text-align: center;
+height:5%;
+}
+
+.newsListTable {
+width: 95%;
+margin-bottom: 5px;
+}
+
+.newsListTableTitle {
+width: 90%;
+}
+
+.newsListTableLinks {
+text-align: right;
+padding-right: 15px;
+}
+
+.afterTableButtons {
+text-align: right;
+padding-right: 15px;
+}
+
+.newsTableTitles {
+width: 150px;
+}
